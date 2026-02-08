@@ -1,6 +1,6 @@
 # Simone Amoroso
 
-Particle physicist (CERN) turned AI engineer/researcher. My home turf is large-scale data analysis and scientific computing: building pipelines, running experiments, and making messy reality measurable. These days I apply the same mindset to ML/LLM systems, with a focus on evaluation, reliability, and deployment.
+Particle physicist (ex CERN) turned AI engineer/researcher. My home turf is large-scale data analysis and scientific computing: building pipelines, running experiments, and making messy reality measurable. These days I apply the same mindset to ML/LLM systems, with a focus on evaluation, reliability, and safety.
 
 I keep here a small museum of random projects and experiments, from ML to hardware to signals to whatever   rabbit hole I fell into next.
 
